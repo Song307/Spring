@@ -1,4 +1,4 @@
 # Spring
 Spring
 TEST PROJECT
-board
+/ board / list
