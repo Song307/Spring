@@ -119,7 +119,7 @@
                         <img src="https://placehold.co/40x40" alt="추천 프로필" class="w-10 h-10 rounded-full">
                         <div class="ml-4">
                             <span class="font-bold text-sm">playwiththeart</span>
-                            <p class="text-xs text-gray-500">reve_park님 외 팔로우함</p>
+                            <p class="text-xs text-gray-500">user1님 외 팔로우함</p>
                         </div>
                     </div>
                     <button class="text-blue-500 font-bold text-sm">팔로우</button>
@@ -129,7 +129,7 @@
                         <img src="https://placehold.co/40x40" alt="추천 프로필" class="w-10 h-10 rounded-full">
                         <div class="ml-4">
                             <span class="font-bold text-sm">1nesus</span>
-                            <p class="text-xs text-gray-500">kim_chong님 외 팔로우함</p>
+                            <p class="text-xs text-gray-500">user3님 외 팔로우함</p>
                         </div>
                     </div>
                     <button class="text-blue-500 font-bold text-sm">팔로우</button>
@@ -139,7 +139,7 @@
                         <img src="https://placehold.co/40x40" alt="추천 프로필" class="w-10 h-10 rounded-full">
                         <div class="ml-4">
                             <span class="font-bold text-sm">dl_rjsud</span>
-                            <p class="text-xs text-gray-500">jong_hyeon님 외 팔로우함</p>
+                            <p class="text-xs text-gray-500">user2님 외 팔로우함</p>
                         </div>
                     </div>
                     <button class="text-blue-500 font-bold text-sm">팔로우</button>
